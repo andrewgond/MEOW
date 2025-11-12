@@ -2237,7 +2237,7 @@
 			)
 		)
 		(property "Footprint" "footprints:CR_0-E3&slash_54_VIS"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "492552ba-3a19-4f7d-926b-8080e575c875")
@@ -2249,7 +2249,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/88526/1n5820.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "41b4cc0e-ea03-418f-a302-971cf6133e26")
@@ -2261,7 +2261,7 @@
 			)
 		)
 		(property "Description" "20V 3A Schottky Barrier Rectifier Diode, DO-201AD"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ee3e5314-2eb8-4427-8468-ee9449be88bc")
@@ -6192,7 +6192,7 @@
 			)
 		)
 		(property "Footprint" "footprints:CR_0-E3&slash_54_VIS"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "63699794-bf41-41be-a25a-499f03fbf7eb")
@@ -6204,7 +6204,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/88526/1n5820.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4c8b60d1-9d7c-4900-b9f0-067c44fa5434")
@@ -6216,7 +6216,7 @@
 			)
 		)
 		(property "Description" "20V 3A Schottky Barrier Rectifier Diode, DO-201AD"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c55996e8-b2f6-41aa-863f-3725d67fac27")
